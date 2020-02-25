@@ -1,23 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ccfae8e-2bd4-411b-a3ba-c78c3dd34b67" name="Default Changelist" comment="" />
+    <list default="true" id="4ccfae8e-2bd4-411b-a3ba-c78c3dd34b67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Chapter1Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YHhtv9Dkhix1jZvbJ8d3KyBeSp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeadFirst.Chapter1.Main" />
+      <module name="HeadFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HeadFirst.Chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="HeadFirstJava" />
@@ -28,8 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -44,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582605644765</updated>
-      <workItem from="1582605652398" duration="644000" />
+      <workItem from="1582605652398" duration="7725000" />
     </task>
     <servers />
   </component>
@@ -52,6 +108,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1582614588840">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1582614588840" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582614715690">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582614715690" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582614715689">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582614715689" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582614715688">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582614715688" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582614715689">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582614715689" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582614403898">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1582614403898" />
     <state x="385" y="196" key="search.everywhere.popup" timestamp="1582605673494">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
