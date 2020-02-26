@@ -13,18 +13,16 @@
 均要考虑进行代码的重写，从而造成冗余）
 
 解决方法：
-    + 将会经常造成变动的属性，如飞行行为，鸣叫行为，从原有父类中分离出来，单独的用一个接口或是一个抽象类表示。
-    + 具体的实现这个行为的实现类，继承或是实现这个抽象类或者接口。
+    1. 将会经常造成变动的属性，如飞行行为，鸣叫行为，从原有父类中分离出来，单独的用一个接口或是一个抽象类表示。
+    
+    2. 具体的实现这个行为的实现类，继承或是实现这个抽象类或者接口。
     
     ```
     public interface FlyBehavior {
     
         public void fly();
     }
-    ```
-    
-    
-    ```
+
     public class FlyWithWings implements FlyBehavior{
         @Override
         public void fly(){
@@ -54,6 +52,8 @@
     Dog d = new Dog(); \\针对具体的实现进行编码
     d.bark();
     ```
+    
+    
     
     ```
     Animal animal = new Dog(); \\利用animal进行多态调用

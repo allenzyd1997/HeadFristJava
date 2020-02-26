@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccfae8e-2bd4-411b-a3ba-c78c3dd34b67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Chapter1Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Squeak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Chapter1Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter1/Chapter1Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582605644765</updated>
-      <workItem from="1582605652398" duration="7725000" />
+      <workItem from="1582605652398" duration="8108000" />
     </task>
     <servers />
   </component>
