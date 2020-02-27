@@ -13,19 +13,16 @@
 均要考虑进行代码的重写，从而造成冗余）
 
 解决方法：
-    + 将会经常造成变动的属性，如飞行行为，鸣叫行为，从原有父类中分离出来，单独的用一个接口或是一个抽象类表示。
+    1. 将会经常造成变动的属性，如飞行行为，鸣叫行为，从原有父类中分离出来，单独的用一个接口或是一个抽象类表示。
     
-    + 具体的实现这个行为的实现类，继承或是实现这个抽象类或者接口。
+    2. 具体的实现这个行为的实现类，继承或是实现这个抽象类或者接口。
     
     ```
     public interface FlyBehavior {
     
         public void fly();
     }
-    ```
-    
-    
-    ```
+
     public class FlyWithWings implements FlyBehavior{
         @Override
         public void fly(){
@@ -56,6 +53,8 @@
     d.bark();
     ```
     
+    
+    
     ```
     Animal animal = new Dog(); \\利用animal进行多态调用
     animal.makeSound();
@@ -67,3 +66,14 @@
     a.makeSound();
     ```
     
+### 3. 多用组合(composition)，少用继承
+ Has A, Is A之间的区别。 本例中 Duck() Has A 飞行行为 和 鸣叫行为， 而他们的实现交由继承其的方法来进行。
+ 
+ 使用组合建立的系统具有很大的弹性，不仅可将算法族(每组行为均可看做一个算法族)封装成类，更可以在运行是动态的改变行为.
+ ```
+        Duck model = new ModelDuck();
+        model.performFly();
+        model.setFlyBehavior(new FlyRocketPowered()); //动态的在运行时改变方法。
+        model.performFly();
+
+```
