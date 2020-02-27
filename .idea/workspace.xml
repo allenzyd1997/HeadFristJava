@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccfae8e-2bd4-411b-a3ba-c78c3dd34b67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter2/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter2/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter2/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter2/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter2/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter2/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter2/Chapter2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstJava/com/HeadFirst/Chapter1/Chapter1Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstJava/com/HeadFirst/Chapter1/Chapter1Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +101,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582605644765</updated>
-      <workItem from="1582605652398" duration="11032000" />
+      <workItem from="1582605652398" duration="11210000" />
+      <workItem from="1582814197996" duration="68000" />
     </task>
     <servers />
   </component>
@@ -119,22 +114,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1582813276321" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582813564478">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582814164844">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582813564478" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582813564477">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582814164844" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582814164843">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582813564477" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582813564476">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582814164843" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582814164842">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582813564476" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582813564477">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582814164842" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582814164843">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582813564477" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582814164843" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1582614403898">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
