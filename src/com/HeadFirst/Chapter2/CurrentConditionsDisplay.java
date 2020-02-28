@@ -1,6 +1,6 @@
 package com.HeadFirst.Chapter2;
 
-public class CurrentConditionsDisplay implements Observer, DisplayElement {
+public class  CurrentConditionsDisplay implements Observer, DisplayElement {
 
     private float temperature;
     private float humidity;
