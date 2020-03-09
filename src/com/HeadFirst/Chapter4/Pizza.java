@@ -1,24 +1,21 @@
 package com.HeadFirst.Chapter4;
 
+import com.HeadFirst.Chapter4.Ingredient.Cheese;
+import com.HeadFirst.Chapter4.Ingredient.Clams;
+import com.HeadFirst.Chapter4.Ingredient.Dough;
+import com.HeadFirst.Chapter4.Ingredient.Sauce;
+
 import java.util.ArrayList;
 
 public abstract class Pizza {
     String name;
-    String dough;
-    String sauce;
-    ArrayList toppings = new ArrayList();
+    Dough dough;
+    Sauce sauce;
+    Clams clams;
+    Cheese cheese;
 
-    void prepare(){
-        System.out.println("Preparing "+ name);
-        System.out.println("Tossing dough...");
-        System.out.println("Adding sauce");
-        System.out.println("Adding toppings: ");
 
-        for (int i= 0; i < toppings.size(); i++){
-            System.out.println("  " + toppings.get(i));
-        }
-    }
-
+    abstract void prepare();
 
     public void bake() {
         System.out.println("Bake for 25 minutes at 350");
@@ -34,5 +31,10 @@ public abstract class Pizza {
 
     public String getName(){
         return name;
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
     }
 }
