@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccfae8e-2bd4-411b-a3ba-c78c3dd34b67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/ClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/Clams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/FreshClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/FrozenClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/MarinaraSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/MozzarellaCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/PlumTomatoSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/ReggianoCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/Sauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/ThickCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Ingredient/ThinCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/PizzaIngredientFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/ChicagoStyleCheesePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/NYStyleCheesePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Chapter4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Chapter4.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +121,7 @@
       <updated>1582605644765</updated>
       <workItem from="1582605652398" duration="11210000" />
       <workItem from="1582814197996" duration="3505000" />
+      <workItem from="1583805005781" duration="1203000" />
     </task>
     <servers />
   </component>
@@ -154,26 +138,26 @@
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state x="459" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.22.1440.878@0.22.1440.878" timestamp="1583765231160" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1583736923714">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1583805001537">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582814164844" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.22.1440.878@0.22.1440.878" timestamp="1583736923714" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1583736923713">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.22.1440.878@0.22.1440.878" timestamp="1583805001537" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1583805001537">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582814164843" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.22.1440.878@0.22.1440.878" timestamp="1583736923713" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1583736923712">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.22.1440.878@0.22.1440.878" timestamp="1583805001537" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1583805001536">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582814164842" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.22.1440.878@0.22.1440.878" timestamp="1583736923712" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1583736923714">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.22.1440.878@0.22.1440.878" timestamp="1583805001536" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1583805001537">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582814164843" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.22.1440.878@0.22.1440.878" timestamp="1583736923714" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.22.1440.878@0.22.1440.878" timestamp="1583805001537" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1582614403898">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
