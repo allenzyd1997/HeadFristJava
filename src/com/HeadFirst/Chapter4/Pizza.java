@@ -8,6 +8,7 @@ import com.HeadFirst.Chapter4.Ingredient.Sauce;
 import java.util.ArrayList;
 
 public abstract class Pizza {
+    //主要的Pizza父类， 但是需要设计成抽象类 由其子类完成对他的实现
     String name;
     Dough dough;
     Sauce sauce;
