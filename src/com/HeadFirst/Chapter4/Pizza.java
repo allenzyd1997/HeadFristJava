@@ -17,6 +17,7 @@ public abstract class Pizza {
 
 
     abstract void prepare();
+    // pizza 准备的函数
 
     public void bake() {
         System.out.println("Bake for 25 minutes at 350");
