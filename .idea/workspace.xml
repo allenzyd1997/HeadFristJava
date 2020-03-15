@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccfae8e-2bd4-411b-a3ba-c78c3dd34b67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/ChiPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/NYPizzaStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter4/Pizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +47,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.HeadFirst.Chapter4" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.PizzaTestDrive">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -121,7 +131,7 @@
       <workItem from="1582605652398" duration="11210000" />
       <workItem from="1582814197996" duration="3505000" />
       <workItem from="1583805005781" duration="1383000" />
-      <workItem from="1583939107390" duration="2525000" />
+      <workItem from="1583939107390" duration="3417000" />
     </task>
     <servers />
   </component>
@@ -129,11 +139,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1583765350932">
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1584254700347">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1582813276321" />
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.22.1440.878@0.22.1440.878" timestamp="1583765350932" />
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.22.1440.878@0.22.1440.878" timestamp="1584254700347" />
     <state x="459" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583765231160">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
