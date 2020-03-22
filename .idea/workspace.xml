@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccfae8e-2bd4-411b-a3ba-c78c3dd34b67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/NoCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/RemoteControl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.HeadFirst.Chapter6" />
       <recent name="com.HeadFirst.Chapter4" />
     </key>
   </component>
@@ -142,11 +143,11 @@
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state x="526" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.22.1440.878@0.22.1440.878" timestamp="1584368174559" />
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1584888995400">
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1584889427527">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1582813276321" />
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.22.1440.878@0.22.1440.878" timestamp="1584888995400" />
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.22.1440.878@0.22.1440.878" timestamp="1584889427527" />
     <state x="459" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583765231160">
       <screen x="0" y="22" width="1440" height="878" />
     </state>

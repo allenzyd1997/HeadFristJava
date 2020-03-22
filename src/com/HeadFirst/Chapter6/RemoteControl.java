@@ -45,6 +45,6 @@ public class RemoteControl {
                 + "    " + offCommands[i].getClass().getName() + "\n");
         }
         return stringBuffer.toString();
-        
+
     }
 }
