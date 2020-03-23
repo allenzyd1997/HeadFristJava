@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccfae8e-2bd4-411b-a3ba-c78c3dd34b67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/NoCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/Chapter6.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter6/Chapter6.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -6,8 +6,13 @@
 >
 >
 
+作为命令，只需要解释清楚谁执行，执行什么 两个行为即可，将invoker从命令内容中解耦。
 
-
+```
+public abstract class Command {
+    public abstract void execute();
+}
+```
 
 
 ###要点
