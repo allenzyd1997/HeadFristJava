@@ -5,7 +5,11 @@ public class Light {
     boolean click = false;
 
     public void on(){
-        this.click = true ;
+        this.click = true;
+    }
+
+    public void off(){
+        this.click = false;
     }
 
 }
