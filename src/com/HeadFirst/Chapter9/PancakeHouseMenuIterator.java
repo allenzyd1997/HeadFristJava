@@ -8,6 +8,12 @@ public class PancakeHouseMenuIterator implements Iterator {
 
     ArrayList menuItem;
     int position = 0;
+
+
+    public PancakeHouseMenuIterator(ArrayList menuItem) {
+        this.menuItem = menuItem;
+    }
+
     @Override
     public void remove() {
 
@@ -25,7 +31,8 @@ public class PancakeHouseMenuIterator implements Iterator {
 
     @Override
     public boolean hasNext() {
-        return menuItem.get(position + 1) != null;
+
+        return (position + 1 > menuItem.size())?false:true;
     }
 
     @Override
