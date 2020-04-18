@@ -1,4 +1,4 @@
-package com.HeadFirst.Chapter9;
+package com.HeadFirst.Chapter9.Iterator;
 
 import java.util.Iterator;
 import java.util.function.Consumer;

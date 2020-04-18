@@ -1,4 +1,4 @@
-package com.HeadFirst.Chapter9;
+package com.HeadFirst.Chapter9.Iterator;
 
 public class MenuItem {
 

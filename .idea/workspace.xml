@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccfae8e-2bd4-411b-a3ba-c78c3dd34b67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/DinerMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/PancakeHouseMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Iterator/DinerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Iterator/DinerMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Iterator/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Iterator/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Iterator/MenuTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Iterator/PancakeHouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/PancakeHouseMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Iterator/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Iterator/Waitress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +54,9 @@
     <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/HeadFirst/Chapter9/Iterator" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.HeadFirst.Chapter7" />
     </key>
@@ -86,11 +93,11 @@
       </method>
     </configuration>
     <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeadFirst.Chapter9.MenuTestDrive" />
+      <option name="MAIN_CLASS_NAME" value="com.HeadFirst.Chapter9.Iterator.MenuTestDrive" />
       <module name="HeadFirstJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HeadFirst.Chapter9.*" />
+          <option name="PATTERN" value="com.HeadFirst.Chapter9.Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,7 +170,7 @@
       <workItem from="1585816517220" duration="738000" />
       <workItem from="1585927858722" duration="437000" />
       <workItem from="1586788101995" duration="502000" />
-      <workItem from="1586875696040" duration="6744000" />
+      <workItem from="1586875696040" duration="6963000" />
     </task>
     <servers />
   </component>
@@ -184,26 +191,26 @@
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state x="459" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.22.1440.878@0.22.1440.878" timestamp="1583765231160" />
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1587214125521">
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1587214938706">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582814164844" />
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.22.1440.878@0.22.1440.878" timestamp="1587214125521" />
-    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1587214125519">
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.22.1440.878@0.22.1440.878" timestamp="1587214938706" />
+    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1587214938705">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582814164843" />
-    <state width="1398" height="221" key="GridCell.Tab.0.center/0.22.1440.878@0.22.1440.878" timestamp="1587214125519" />
-    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1587214125518">
+    <state width="1398" height="221" key="GridCell.Tab.0.center/0.22.1440.878@0.22.1440.878" timestamp="1587214938705" />
+    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1587214938704">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582814164842" />
-    <state width="1398" height="221" key="GridCell.Tab.0.left/0.22.1440.878@0.22.1440.878" timestamp="1587214125518" />
-    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1587214125520">
+    <state width="1398" height="221" key="GridCell.Tab.0.left/0.22.1440.878@0.22.1440.878" timestamp="1587214938704" />
+    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1587214938705">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582814164843" />
-    <state width="1398" height="221" key="GridCell.Tab.0.right/0.22.1440.878@0.22.1440.878" timestamp="1587214125520" />
+    <state width="1398" height="221" key="GridCell.Tab.0.right/0.22.1440.878@0.22.1440.878" timestamp="1587214938705" />
     <state x="229" y="100" key="SettingsEditor" timestamp="1584593019566">
       <screen x="0" y="22" width="1440" height="878" />
     </state>

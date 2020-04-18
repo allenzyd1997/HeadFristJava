@@ -1,4 +1,4 @@
-package com.HeadFirst.Chapter9;
+package com.HeadFirst.Chapter9.Iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;
