@@ -1,11 +1,12 @@
 package com.HeadFirst.Chapter9;
 
-public class DinerMenu {
+public class DinerMenu implements Menu {
 
     static final int MAX_ITEMS = 6 ;
     int numberOfItems = 0;
     MenuItem[] menuItems;
 
+    @Override
     public DinerMenuIterator createIterator(){
         return new DinerMenuIterator(menuItems);
     }

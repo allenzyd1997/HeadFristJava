@@ -2,15 +2,16 @@ package com.HeadFirst.Chapter9;
 
 import java.util.ArrayList;
 
-public class PancakeHouseMenu {
+public class PancakeHouseMenu implements Menu {
 
     ArrayList menuItems;
 
+    @Override
     public PancakeHouseMenuIterator createIterator(){
         return new PancakeHouseMenuIterator(menuItems);
     }
 
-    public PancakeHouseMenu() {
+    public PancakeHouseMenu(){
         menuItems = new ArrayList();
 
         addItem("K&B's Pancake Breakfast", "Pancakes with screambled eggs, and toast", true, 2.99);

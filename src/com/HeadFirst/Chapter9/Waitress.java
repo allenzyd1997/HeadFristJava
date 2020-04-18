@@ -1,30 +1,24 @@
 package com.HeadFirst.Chapter9;
 
+import java.util.ArrayList;
 import java.util.Iterator;
 
 public class Waitress {
+    //与不同格式的菜单进行解耦
+    ArrayList menus;
 
-    PancakeHouseMenu pancakeHouseMenu;
-    DinerMenu dinerMenu;
 
-
-    public Waitress(PancakeHouseMenu pancakeHouseMenu, DinerMenu dinerMenu) {
-        this.pancakeHouseMenu = pancakeHouseMenu;
-        this.dinerMenu = dinerMenu;
+    public Waitress(ArrayList menus) {
+        this.menus = menus;
     }
 
 
     public void printMenu(){
-        Iterator pancakeIterator = pancakeHouseMenu.createIterator();
-        Iterator dinerIterator = dinerMenu.createIterator();
-
-        System.out.println("\n MENU _____ BREAKFAST \n");
-
-        printMenu(pancakeIterator);
-
-        System.out.println("\n MENU _____ LUNCH \n");
-
-        printMenu(dinerIterator);
+        Iterator menuIterator = menus.iterator();
+        while (menuIterator.hasNext()){
+            Menu menu = (Menu)menuIterator.next();
+            printMenu(menu.createIterator());
+        }
     }
 
     private void printMenu(Iterator iterator){
